@@ -1,43 +1,17 @@
 
 
-//public  class Main {
-//
-//    public static void main(String[] args) {
-//        System.out.println("Hello World");
-
-//    }
-//}
 
 
 //variable the container that contain the value
 public  class Main {
-    public static  void main(String[] args)
-    {
-// how variable is applied
+    public static void main(String[] args) {
+//        Array and ArrayList
+     String jina_la_kwanza = "filbati";
+     String jina_la_pili = "Anna";
 
-        int  age = 22;
-        String name = "Anna Amani Mwampulule";
+     String[]majina = {"filbati", "Anna"};
 
-        System.out.println(age);
-        System.out.println(name);
-//concatinations of word that is String  concatination
-        System.out.println( "The name is "+ age  +" "+  name);
+     System.out.println(majina[1]);
 
 
-
-//      if statement in java programming
-          int marks = 70;
-
-          if( marks>60) {
-              System.out.println("The greatest value");
-
-          }
-          else {
-              System.out.println("Smallest");
-          }
-          System.out.println(marks);
-
-
-    }
-}
-
+}}
