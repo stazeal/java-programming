@@ -9,8 +9,9 @@ public  class Main {
 //        initial condition = 0
 //        change condition = increment (Ongeza)
 //        Test condition = (==4)
-        for (int i=0; i<4; i++){
-            System.out.println(marks[i]);
+        for (int i=4; i>0; i--){
+            System.out.println( "marks"+marks[i]);
+
         }
 
 
