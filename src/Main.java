@@ -1,29 +1,19 @@
-import java.util.ArrayList;
 
-//variable the container that contain the value
+
+
 public  class Main {
     public static void main(String[] args) {
-//
 
-//     Another array that change called ArrayList
-
-
-//
-//
-//                ArrayList<String> matunda = new ArrayList<>();
-//                matunda.add("Filbati");
-//                matunda.add("Anna");
-//                matunda.add("Amani");
-//
-//                // Accessing the first element
-//                System.out.println(matunda.get(0));  // Outputs: Filbati
-//                // Printing the size of the array list
-//                System.out.println(matunda.size());  // Outputs: 3
-//
-//                // Optional return statement, not necessary here
-//           matunda.remove(0);
         int[]marks = {20,45,46,30,20};
-        System.out.println(marks[0]);
+//        For loop
+//        initial condition = 0
+//        change condition = increment (Ongeza)
+//        Test condition = (==4)
+        for (int i=0; i<4; i++){
+            System.out.println(marks[i]);
+        }
+
+
 
 
 
