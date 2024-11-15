@@ -6,7 +6,7 @@ public  class Main {
 
 //        Classes
        Mtu m = new Mtu();
-       m.jina = "Anna";
+       m.jina = "filly";
        m.umri =24;
        m.salimia();
     }
