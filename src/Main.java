@@ -4,9 +4,10 @@
 public  class Main {
     public static void main(String[] args) {
 
-//Public
-//        protected
-//        private
+//Public sehemu yoyote
+//        protected ndani ya folder
+
+//        private  ndani ya class
 
         Tunda tunda = new Tunda();
         tunda.jina ="Ndizi";

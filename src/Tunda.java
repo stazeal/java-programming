@@ -2,7 +2,7 @@ public class Tunda {
 
     public String jina;
     public int bei;
-    public String rangi;
+protected String rangi;
 
 
     public void  taarifa(){
