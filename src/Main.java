@@ -4,15 +4,18 @@
 public  class Main {
     public static void main(String[] args) {
 
-//      Object in the main class
-//       Mtu m = new Mtu();
-//       m.jina = "filly";
-//       m.umri =24;
-//
+//Public
+//        protected
+//        private
 
-//        Another to create object
-        Mtu mtu = new Mtu( 23, "Anna");
-        mtu.salimia();
+        Tunda tunda = new Tunda();
+        tunda.jina ="Ndizi";
+        tunda.bei = 1000;
+        tunda.rangi = "njano";
+
+        tunda.taarifa();
+
+
 
     }
         }
