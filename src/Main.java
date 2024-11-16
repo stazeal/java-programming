@@ -10,9 +10,9 @@ public  class Main {
 //        private  ndani ya class
 
         Tunda tunda = new Tunda();
-        tunda.jina ="Ndizi";
-        tunda.bei = 1000;
-        tunda.rangi = "njano";
+        tunda.setJina ("Ndizi");
+        tunda. setBei (1000);
+        tunda.setRangi ("njano");
 
         tunda.taarifa();
 
