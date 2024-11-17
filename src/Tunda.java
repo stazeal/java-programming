@@ -8,10 +8,9 @@ public class Tunda {
     public void taarifa() {
         System.out.println("Jina: " + jina);
         System.out.println("Bei: " + bei);
-        System.out.println("Rangi: " + rangi);
+        System.out.println("Rangi nyeupe: " + rangi);
     }
 
-    // Getter and setter for 'jina'
     public String getJina() {
         return jina;
     }
@@ -20,16 +19,6 @@ public class Tunda {
         this.jina = jina;
     }
 
-    // Getter and setter for 'bei'
-    public int getBei() {
-        return bei;
-    }
-
-    public void setBei(int bei) {
-        this.bei = bei;
-    }
-
-    // Getter and setter for 'rangi'
     public String getRangi() {
         return rangi;
     }
@@ -37,4 +26,14 @@ public class Tunda {
     public void setRangi(String rangi) {
         this.rangi = rangi;
     }
+
+    public int getBei() {
+        return bei;
+    }
+
+    public void setBei(int bei) {
+        this.bei = bei;
+    }
+// Getter and setter for 'jina
+
 }
