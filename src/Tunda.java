@@ -6,7 +6,7 @@ public class Tunda {
 
     // Method to display the details
     public void taarifa() {
-        System.out.println("Jina: " + jina);
+        System.out.println("Jina langu: " + jina);
         System.out.println("Bei: " + bei);
         System.out.println("Rangi nyeupe: " + rangi);
     }
